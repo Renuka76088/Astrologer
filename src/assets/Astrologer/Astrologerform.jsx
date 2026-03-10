@@ -223,7 +223,6 @@ const Astrologerform = () => {
   return (
     // Fixed screen height with no scroll
     <div className="h-screen w-full bg-[#020205] flex items-center justify-center p-4 md:p-8 font-serif overflow-hidden">
-      
       {/* Main Container - Fixed Height */}
       <div className="w-full max-w-6xl h-full max-h-[800px] bg-[#0a0a15] rounded-[2rem] overflow-hidden shadow-2xl border border-white/5 flex flex-col lg:flex-row">
         

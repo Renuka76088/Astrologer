@@ -74,7 +74,7 @@ rotate: { duration: 120, repeat: Infinity, ease: "linear" }
             className="text-4xl md:text-5xl font-serif tracking-wide leading-tight"
           >
             Discover The Stars Of Our <br /> 
-            <span className="text-white/90">Astro Conference</span>
+            <span className="text-white/90">Astro Sathi</span>
           </motion.h1>
 
           <div className="space-y-8">
